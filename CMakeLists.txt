@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 2.6 FATAL_ERROR)
 
 project (example1)
 
-add_executable(example1 main.cpp)
+add_executable(example1 src/main.cpp)
 
 
 message ("Hello all!")
